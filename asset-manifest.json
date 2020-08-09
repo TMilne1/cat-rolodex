@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/CatRolodex/static/css/main.e707e780.chunk.css",
-    "main.js": "/github.io/CatRolodex/static/js/main.0b1f0ce3.chunk.js",
-    "main.js.map": "/github.io/CatRolodex/static/js/main.0b1f0ce3.chunk.js.map",
-    "runtime-main.js": "/github.io/CatRolodex/static/js/runtime-main.f1678eac.js",
-    "runtime-main.js.map": "/github.io/CatRolodex/static/js/runtime-main.f1678eac.js.map",
-    "static/js/2.3c7f1c1a.chunk.js": "/github.io/CatRolodex/static/js/2.3c7f1c1a.chunk.js",
-    "static/js/2.3c7f1c1a.chunk.js.map": "/github.io/CatRolodex/static/js/2.3c7f1c1a.chunk.js.map",
-    "index.html": "/github.io/CatRolodex/index.html",
-    "precache-manifest.d57bbfa3847305a1f45ac57153374c7a.js": "/github.io/CatRolodex/precache-manifest.d57bbfa3847305a1f45ac57153374c7a.js",
-    "service-worker.js": "/github.io/CatRolodex/service-worker.js",
-    "static/css/main.e707e780.chunk.css.map": "/github.io/CatRolodex/static/css/main.e707e780.chunk.css.map",
-    "static/js/2.3c7f1c1a.chunk.js.LICENSE.txt": "/github.io/CatRolodex/static/js/2.3c7f1c1a.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/cat-rolodex/static/css/main.e707e780.chunk.css",
+    "main.js": "/github.io/cat-rolodex/static/js/main.af24dfce.chunk.js",
+    "main.js.map": "/github.io/cat-rolodex/static/js/main.af24dfce.chunk.js.map",
+    "runtime-main.js": "/github.io/cat-rolodex/static/js/runtime-main.6a3d4800.js",
+    "runtime-main.js.map": "/github.io/cat-rolodex/static/js/runtime-main.6a3d4800.js.map",
+    "static/js/2.3c7f1c1a.chunk.js": "/github.io/cat-rolodex/static/js/2.3c7f1c1a.chunk.js",
+    "static/js/2.3c7f1c1a.chunk.js.map": "/github.io/cat-rolodex/static/js/2.3c7f1c1a.chunk.js.map",
+    "index.html": "/github.io/cat-rolodex/index.html",
+    "precache-manifest.67eb86e3b24bc2934f2039411cfa721a.js": "/github.io/cat-rolodex/precache-manifest.67eb86e3b24bc2934f2039411cfa721a.js",
+    "service-worker.js": "/github.io/cat-rolodex/service-worker.js",
+    "static/css/main.e707e780.chunk.css.map": "/github.io/cat-rolodex/static/css/main.e707e780.chunk.css.map",
+    "static/js/2.3c7f1c1a.chunk.js.LICENSE.txt": "/github.io/cat-rolodex/static/js/2.3c7f1c1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1678eac.js",
+    "static/js/runtime-main.6a3d4800.js",
     "static/js/2.3c7f1c1a.chunk.js",
     "static/css/main.e707e780.chunk.css",
-    "static/js/main.0b1f0ce3.chunk.js"
+    "static/js/main.af24dfce.chunk.js"
   ]
 }
